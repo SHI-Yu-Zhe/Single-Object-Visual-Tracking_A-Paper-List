@@ -4,6 +4,7 @@
 
 ## 1 Popular Benchmarks
 
+- **A Refined Note for 7 Benchmarks**, Yuzhe Shi. [[project](https://github.com/YuzheSHI/Benchmarks-for-Single-Object-Visual-Tracking)]
 - **OTB2015** Yi Wu, Jongwoo Lim, and Ming-Hsuan Yang, "Object Tracking Benchmark", PAMI, 2015. [[paper](https://ieeexplore.ieee.org/document/7001050)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/pami/WuLY15)] [[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]
 - **UAV123** Matthias Mueller, Neil Smith, and Bernard Ghanem, "A Benchmark and Simulator for UAV Tracking", ECCV, 2016. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-46448-0_27)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/MuellerSG16)] [[project](https://uav123.org/)]
 - **NFS** Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan and Simon Lucey, "Need for Speed: A Benchmark for Higher Frame Rate Object Tracking", ICCV, 2017.
