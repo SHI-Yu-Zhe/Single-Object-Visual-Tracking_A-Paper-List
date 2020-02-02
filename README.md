@@ -149,7 +149,7 @@
 #### 3.2.5 Output: Localization
 
 - **MDNet** Hyeonseob Nam, Bohyung Han, "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking", CVPR, 2016.
-- **TrackingCompletion** Yao Sui, Guanghui Wang, Yafei Tang, Li Zhang, "TrackingCompletion", ECCV, 2016.
+- **TrackingCompletion** Yao Sui, Guanghui Wang, Yafei Tang, Li Zhang, "Tracking Completion", ECCV, 2016.
 - **AFCN** Jongwon Choi, Hyung Jin Chang,Sangdoo Yun, Tobias Fischer, Yiannis Demiris, Jin Young Choi, "Attentional Correlation Filter Network for Adaptive Visual Tracking", CVPR, 2017.
 - **LMCF** Mengmeng Wang, Yong Liu, Zeyi Huang, "Large Margin Object Tracking with Circulant Feature Maps", CVPR, 2017.
 - **MCPF** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang, "Multi-task Correlation Particle Filter for Robust Object Tracking", CVPR, 2017.
