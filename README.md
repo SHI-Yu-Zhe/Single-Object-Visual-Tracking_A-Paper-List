@@ -1,6 +1,6 @@
 # Single-Object Visual Tracking: A Paper List
 
-*A complete paper list of Single-Object Visual Tracking Algorithms, Surveys and Benchmarks of recent years. Different from existing paper list, this project doesn't simply category the papers by publishment, but from a tracking process perspective. Main Contributions and Novelties of each tracker paper is carefully studied, forming our taxonomy criteria. The investigation covers top conferences as AAAI, CVPR, ECCV, ICCV, ICML, IJCAI, NIPS and top journals as IJCV, IP, PAMI. Note that the list is not bijective, namely a single paper may appear in diverse contents.* 
+*A complete paper list of Single-Object Visual Tracking Algorithms, Surveys and Benchmarks of recent years. Different from existing paper list, this project doesn't simply category the papers by publishment, but from a tracking process perspective. Main Contributions and Novelties of each tracker paper is carefully studied, forming our taxonomy criteria. The investigation covers top conferences as AAAI, CVPR, ECCV, ICCV, ICML, IJCAI, NIPS and top journals as IJCV, TIP, PAMI, CSVT. Note that the list is not bijective, namely a single paper may appear in diverse contents.* 
 
 ## 1 Popular Benchmarks
 
@@ -29,13 +29,13 @@
 
 ### 3.1 Data Augmentation 
 
-#### 3.1.1 Data Generation
+#### 3.1.1 Sampling
 
 - **SINT++** Xiao Wang, Chenglong Li, Bin Luo, Jin Tang, "SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation", CVPR, 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_SINT_Robust_Visual_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/WangL0T18)] 
 - **VITAL** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau and Ming-Hsuan Yang, "VITAL: VIsual Tracking via Adversarial Learning", CVPR, 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/Song0WGBZSL018)] [[code](https://github.com/ybsong00/Vital_release)]
 - **PAT** Rey Reza Wiyatno, Anqi Xu, "Physical Adversarial Textures That Fool Visual Object Tracking", ICCV, 2019.
 
-#### 3.1.2 Offline Training
+  #### 3.1.2 Offline Training
 
 - **SINT** Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders, "Siamese Instance Search for Tracking", CVPR, 2016.
 - **STCT** Lijun Wang, Wanli Ouyang, Xiaogang Wang and Huchuan Lu, "STCT: Sequentially Training Convolutional Networks for Visual Tracking", CVPR, 2016.
@@ -86,7 +86,9 @@
 - **SANet** Heng Fan, Haibin Ling, "SANet: Structure-Aware Network for Visual Tracking", CVPR, 2017.
 - **CFWCR** Zhiqun He, Yingruo Fan, Junfei Zhuang, Yuan Dong, HongLiang Bai, "Correlation Filters with Weighted Convolution Responses", ICCV, 2017.
 - **RFL** Tianyu Yang, Antoni B. Chan, "Recurrent Filter Learning for Visual Tracking", ICCV, 2017.
-- **DNT** Zhizhen Chi, Hongyang Li, Huchuan Lu and Ming-Hsuan Yang, "Dual Deep Network for Visual Tracking", IP, 2017.
+- **DNT** Zhizhen Chi, Hongyang Li, Huchuan Lu and Ming-Hsuan Yang, "Dual Deep Network for Visual Tracking", TIP, 2017.
+- **adaDDCF** Zhenjun Han, Pan Wang, Qixiang Ye, "Adaptive Discriminative Deep Correlation Filter for
+  Visual Object Tracking", CSVT, 2018.
 - **MCCT** Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li, "Multi-Cue Correlation Filters for Robust Visual Tracking", CVPR, 2018.
 - **SA-Siam** Anfeng He, Chong Luo, Xinmei Tian, and Wenjun Zeng, "A Twofold Siamese Network for Real-Time Object Tracking", CVPR, 2018.
 - **TRACA** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, "Context-aware Deep Feature Compression for High-speed Visual Tracking", CVPR, 2018.
@@ -112,7 +114,7 @@
 - **CSR-DCF** Alan Lukežič, Tomáš Vojı́ř, Luka Čehovin Zajc, Jiřı́ Matas and Matej Kristan, "Discriminative Correlation Filter with Channel and Spatial Reliability", CVPR, 2017.
 
 - **BACF** Hamed Kiani Galoogahi, Ashton Fagg and Simon Lucey, "Learning Background-Aware Correlation Filters for Visual Tracking", ICCV, 2017.
-- **DRT** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang and Changsheng Xu, "Deep Relative Tracking", IP, 2017.
+- **DRT** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang and Changsheng Xu, "Deep Relative Tracking", TIP, 2017.
 - **HART** Adam R. Kosiorek, Alex Bewley, Ingmar Posner, "Hierarchical Attentive Recurrent Tracking", NIPS, 2017.
 - **DRT** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang, "Correlation Tracking via Joint Discrimination and Reliability Learning", CVPR, 2018.
 - **LSART** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang, "Learning Spatial-Aware Regressions for Visual Tracking", CVPR, 2018.
@@ -145,7 +147,7 @@
 - **GCT** Junyu Gao, Tianzhu Zhang and Changsheng Xu, "Graph Convolutional Tracking", CVPR, 2019.
 - **GFS-DCF** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler, "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking", ICCV, 2019.
 - **GradNet** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu, "GradNet: Gradient-Guided Network for Visual Object Tracking", ICCV, 2019.
-- **DSTN** Zhu Teng, Junliang Xing, Qiang Wang, Baopeng Zhang and Jianping Fan, "Deep Spatial and Temporal Network for Robust Visual Object Tracking", IP, 2020.
+- **DSTN** Zhu Teng, Junliang Xing, Qiang Wang, Baopeng Zhang and Jianping Fan, "Deep Spatial and Temporal Network for Robust Visual Object Tracking", TIP, 2020.
 
 #### 3.2.5 Output: Localization
 
