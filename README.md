@@ -43,26 +43,43 @@
 #### 3.1.1 Sampling
 
 - **SINT++** Xiao Wang, Chenglong Li, Bin Luo, Jin Tang, "SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation", CVPR, 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_SINT_Robust_Visual_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/WangL0T18)] 
+
 - **VITAL** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau and Ming-Hsuan Yang, "VITAL: VIsual Tracking via Adversarial Learning", CVPR, 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/Song0WGBZSL018)] [[code](https://github.com/ybsong00/Vital_release)]
+
 - **PAT** Rey Reza Wiyatno, Anqi Xu, "Physical Adversarial Textures That Fool Visual Object Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1904.11042)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1904-11042)] 
 
   #### 3.1.2 Offline Training
 
 - **SINT** Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders, "Siamese Instance Search for Tracking", CVPR, 2016.[[paper](https://doi.org/10.1109/CVPR.2016.158)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/TaoGS16)] [[code](https://github.com/taotaoorange/SINT)]
+
 - **STCT** Lijun Wang, Wanli Ouyang, Xiaogang Wang and Huchuan Lu, "STCT: Sequentially Training Convolutional Networks for Visual Tracking", CVPR, 2016.[[paper](https://doi.org/10.1109/CVPR.2016.153)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/WangOWL16)] [[code](https://github.com/scott89/STCT)]
+
 - **GOTURN** David Held, Sebastian Thrun, Silvio Savarese, "Learning to Track at 100 FPS with Deep
   Regression Networks", ECCV, 2016.[[paper](https://doi.org/10.1007/978-3-319-46448-0_45)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/HeldTS16)] [[code](https://github.com/davheld/GOTURN)]
+  
 - **SiameseFC** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr, "Fully-Convolutional Siamese Networks for Object Tracking", ECCV, 2016.[[paper](https://doi.org/10.1007/978-3-319-48881-3_56)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/BertinettoVHVT16)] [[code](https://github.com/rafellerc/Pytorch-SiamFC)]
+
 - **CFNet** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr, "End-to-end representation learning for Correlation Filter based tracking", CVPR, 2017.[[paper](https://doi.org/10.1109/CVPR.2017.531)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/ValmadreBHVT17)] [[code](https://github.com/bertinetto/cfnet)]
+
 - **UCT** Zheng Zhu, Guan Huang, Wei Zou, Dalong Du, Chang Huang, "UCT: Learning Unified Convolutional Networks for Real-time Visual Tracking", ICCV, 2017.[[paper](https://doi.org/10.1109/ICCVW.2017.231)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/iccvw/ZhuHZDH17)] [[code](https://github.com/zhengzhugithub/UCT)]
+
 - **DSLT** Xiankai Lu, Chao Ma, Bingbing Ni, Xiaokang Yang, Ian Reid and Ming-Hsuan Yang, "Deep Regression Tracking with Shrinkage Loss", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01264-9_22)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/LuMNYRY18)]  [[code](https://github.com/chaoma99/DSLT)]
-- **Meta-Tracker** Eunbyung Park, Alexander C. Berg, "Meta-Tracker: Fast and Robust Online
-  Adaptation for Visual Object Trackers", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01219-9_35)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/ParkB18)] [[code](https://github.com/silverbottlep/meta_trackers)]
+
 - **RTINet** Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan and Wangmeng Zuo, "Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01240-3_34)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/YaoWZSZ18)] [[code](https://github.com/tourmaline612/RTINet)]
+
 - **DATRL** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang, "Deep Attentive Tracking via Reciprocative Learning", NIPS, 2018.[[paper](http://papers.nips.cc/paper/7463-deep-attentive-tracking-via-reciprocative-learning)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/nips/PuS0Z018)] [[code](https://ybsong00.github.io/nips18_tracking/index)]
-- **UDT** Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li, "Unsupervised Deep Tracking", CVPR, 2019.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/WangS0ZLL19)] [[code](https://github.com/594422814/UDT)]
-- **GradNet** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu, "GradNet: Gradient-Guided Network for Visual Object Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1909.06800)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1909-06800)] [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+
 - **SILOT** Eric Crawford, Joelle Pineau, "Exploiting Spatial Invariance for Scalable Unsupervised Object Tracking", AAAI, 2020.[[paper](http://arxiv.org/abs/1911.09033)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1911-09033)] [[code](https://github.com/e2crawfo/silot)]
+
+###### Unsupervised-Trained
+
+- **UDT** Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li, "Unsupervised Deep Tracking", CVPR, 2019.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Unsupervised_Deep_Tracking_CVPR_2019_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/WangS0ZLL19)] [[code](https://github.com/594422814/UDT)]
+
+###### Meta-Learning Based
+
+- **Meta-Tracker** Eunbyung Park, Alexander C. Berg, "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01219-9_35)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/ParkB18)] [[code](https://github.com/silverbottlep/meta_trackers)]
+- **MLT** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee, "Deep Meta Learning for Real-Time Target-Aware Visual Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1712.09153)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1712-09153)] 
+- **RT-MLT** Ilchae Jung, Kihyun You, Hyeonwoo Noh, Minsu Cho, Bohyung Han, "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning", AAAI, 2020.[[paper](http://arxiv.org/abs/1911.11170)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1911-11170)] 
 
 ###### Reinforcement Learning Based Method:
 
@@ -104,16 +121,10 @@
 - **SA-Siam** Anfeng He, Chong Luo, Xinmei Tian, and Wenjun Zeng, "A Twofold Siamese Network for Real-Time Object Tracking", CVPR, 2018.[[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/He_A_Twofold_Siamese_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/HeLTZ18)] [[code](https://github.com/HaHuangChan/SA-Siam)]
 - **TRACA** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, "Context-aware Deep Feature Compression for High-speed Visual Tracking", CVPR, 2018.[[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/ChoiC0YLJD018)] [[code](https://github.com/jongwon20000/TRACA)]
 - **Siam-tri** Xingping Dong and Jianbing Shen, "Triplet Loss in Siamese Network for Object Tracking", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01261-8_28)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/DongS18)] [[code](https://github.com/shenjianbing/TripletTracking)]
-<<<<<<< HEAD
 - **UPDT** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan and Michael Felsberg, "Unveiling the Power of Deep Tracking", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01216-8_30)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/BhatJDKF18)] [[code](https://github.com/visionml/pytracking)]
 - **CFWFI** Aishi Li, Ming Yang, Wanqi Yang, "Feature Integration with Adaptive Importance Maps for Visual Tracking", IJCAI, 2018.[[paper](https://doi.org/10.24963/ijcai.2018/108)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/LiYY18)] 
 - **EDCF-EDSiam** Qiang Wang, Mengdan Zhang, Junliang Xing, Jin Gao, Weiming Hu, Steve Maybank, "Do not Lose the Details: Reinforced Representation Learning for High Performance Visual Tracking", IJCAI, 2018.[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_19)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/WangZXGHM18)] 
 - **HCFT** Chao Ma, Jia-Bin Huang, Xiaokang Yang, and Ming-Hsuan Yang, "Robust Visual Tracking via Hierarchical Convolutional Features", PAMI, 2019. [[paper](https://ieeexplore.ieee.org/document/8434334)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/pami/0004HY019)] [[code](https://github.com/chaoma99/HCFTstar)]
-=======
-- **UPDT** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan and Michael Felsberg, "Unveiling the Power of Deep Tracking", ECCV, 2018.[[paper](https://doi.org/10.1007/978-3-030-01216-8_30)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/eccv/BhatJDKF18)] 
-- **CFWFI** Aishi Li, Ming Yang, Wanqi Yang, "Feature Integration with Adaptive Importance Maps for Visual Tracking", IJCAI, 2018.[[paper](https://doi.org/10.24963/ijcai.2018/108)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/LiYY18)] 
-- **EDCF-EDSiam** Qiang Wang, Mengdan Zhang, Junliang Xing, Jin Gao, Weiming Hu, Steve Maybank, "Do not Lose the Details: Reinforced Representation Learning for High Performance Visual Tracking", IJCAI, 2018.[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_19)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/WangZXGHM18)] 
->>>>>>> 975b1a6a868a11b71285aa27c6745e994373a302
 - **LASRT** Yuankai Qi, Shengping Zhang, Weigang Zhang, Li Su, Qingming Huang, Ming-Hsuan Yang, "Learning Attribute-Specific Representations for Visual Tracking", AAAI, 2019.[[paper](https://doi.org/10.1609/aaai.v33i01.33018835)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/aaai/QiZZSH019)] 
 - **CIR (SiamDW)** Zhipeng Zhang, Houwen Peng, Qiang Wang, Bing Li, "Deeper and Wider Siamese Networks for Real-Time Visual Tracking", CVPR, 2019.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/ZhangP19)] [[code](https://github.com/researchmm/SiamDW)]
 - **C-RPN** Heng Fan, Haibin Ling, "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking", CVPR, 2019.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.html)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/FanL19)] 
@@ -132,10 +143,6 @@
 - **CACF** Matthias Mueller, Neil Smith, Bernard Ghanem, "Context-Aware Correlation Filter Tracking", CVPR, 2017.[[paper](https://doi.org/10.1109/CVPR.2017.152)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/MuellerSG17)] [[code](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)]
 - **CSR-DCF** Alan Lukežič, Tomáš Vojı́ř, Luka Čehovin Zajc, Jiřı́ Matas and Matej Kristan, "Discriminative Correlation Filter with Channel and Spatial Reliability", CVPR, 2017.[[paper](https://doi.org/10.1109/CVPR.2017.515)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/LukezicVZMK17)]  [[code](https://github.com/alanlukezic/csr-dcfnakan)]
 
-  <<<<<<< HEAD
-  =======
-
->>>>>>> 975b1a6a868a11b71285aa27c6745e994373a302
 - **BACF** Hamed Kiani Galoogahi, Ashton Fagg and Simon Lucey, "Learning Background-Aware Correlation Filters for Visual Tracking", ICCV, 2017.[[paper](https://doi.org/10.1109/ICCV.2017.129)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/iccv/GaloogahiFL17)] [[code](https://github.com/4kubo/bacf_python)]
 - **DRT** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang and Changsheng Xu, "Deep Relative Tracking", TIP, 2017.[[paper](https://doi.org/10.1109/TIP.2017.2656628)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/tip/GaoZYX17)] 
 - **HART** Adam R. Kosiorek, Alex Bewley, Ingmar Posner, "Hierarchical Attentive Recurrent Tracking", NIPS, 2017.[[paper](http://papers.nips.cc/paper/6898-hierarchical-attentive-recurrent-tracking)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/nips/KosiorekBP17)] [[code](https://github.com/akosiorek/hart)]
@@ -155,7 +162,7 @@
 - **ARCF** Ziyuan Huang, Changhong Fu, Yiming Li, Fuling Lin and Peng Lu, "Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1908.02231)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1908-02231)] [[code](https://github.com/vision4robotics/ARCF-tracker)]
 - **GFS-DCF** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler, "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1907.13242)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1907-13242)] [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
 - **SPST** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye, "SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking", AAAI, 2020.[[paper](http://arxiv.org/abs/1912.00597)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1912-00597)] [[code](https://github.com/TrackerLB/SPSTracker)]
-- **SiamRCNN** , Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe, "Siam R-CNN: Visual Tracking by Re-Detection", CVPR, 2020. [[code](https://arxiv.org/pdf/1911.12836.pdf)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1911-12836)] 
+
 #### 3.2.4 Input: Temporal Information
 
 - **AMCT** Donghun Yeo, Jeany Son, Bohyung Han, Joon Hee Han, "Superpixel-based Tracking-by-Segmentation using Markov Chains", CVPR, 2017.[[paper](https://doi.org/10.1109/CVPR.2017.62)] [[bib](https://dblp.uni-trier.de/rec/bibtex/conf/cvpr/YeoSHH17)] [[code](https://github.com/hanulbogo/AMCT)]
@@ -220,4 +227,8 @@
 - **Re^2EMA** Jianglei Huang, Wengang Zhou, "Re^2EMA: Regularized and Reinitialized Exponential
   Moving Average for Target Model Update in Object Tracking", AAAI, 2019.[[paper](https://doi.org/10.1007/s11042-019-7219-y)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/mta/HuangZTL19)] 
 - **Bridge** Lianghua Huang, Xin Zhao, Kaiqi Huang, "Bridging the Gap Between Detection and Tracking: A Unified Approach", ICCV, 2019.[[paper](http://arxiv.org/abs/1912.08531)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1912-08531)] [[code-SSD](https://github.com/lufficc/SSD)] [[code-FasterRCNN](https://github.com/yingxingde/FasterRCNN-pytorch)]
+
+###### Template Updating in Siamese-based Tracker
+
 - **UpdateNet** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan, "Learning the Model Update for Siamese Trackers", ICCV, 2019.[[paper](https://arxiv.org/abs/1908.00855)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1908-00855)] [[code](https://github.com/zhanglichao/updatenet)]
+- **GradNet** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu, "GradNet: Gradient-Guided Network for Visual Object Tracking", ICCV, 2019.[[paper](http://arxiv.org/abs/1909.06800)] [[bib](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1909-06800)] [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
