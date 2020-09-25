@@ -1,4 +1,4 @@
-# Single-Object Visual Tracking: A Paper List
+# Single-Object Visual Tracking: A Paper List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *A complete paper list of Single-Object Visual Tracking Algorithms, Surveys and Benchmarks of recent years. Different from existing paper list, this project doesn't simply category the papers by publishment, but from a tracking process perspective. Main Contributions and Novelties of each tracker paper is carefully studied, forming our taxonomy criteria. The investigation covers top conferences as AAAI, CVPR, ECCV, ICCV, ICML, IJCAI, NIPS and top journals as IJCV, TIP, PAMI, CSVT. Note that the list is not bijective, namely a single paper may appear in diverse contents.* 
 
